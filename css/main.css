@@ -119,6 +119,15 @@ body {
 }
 
 
+.me{
+    background-color: #111827b0;
+    background-image: url(../img/me.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
 @keyframes gradient {
     0% {
         background-position: 0% 50%;
